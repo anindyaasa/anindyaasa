@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anindya Samiya Artanti
 - An Undergraduate Student of Mathematics, Universitas Indonesia
-- 👀 I’m interested in Managing Data and Development
-- 📫 How to reach me 
+- 👀 I’m interested in Managing Data 
 LinkedIn : Anindya Samiya Artatni
 Email    : anindya.indi@gmail.com
 
